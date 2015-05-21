@@ -1,0 +1,31 @@
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\bin\x86\Debug\BEProject3.exe
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\bin\x86\Debug\Content\Pixel.xnb
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\bin\x86\Debug\Content\target.xnb
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\bin\x86\Debug\Content\tile.xnb
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\bin\x86\Debug\Content\car.xnb
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\bin\x86\Debug\Content\Font.xnb
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\obj\x86\Debug\BEProject3.exe
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\obj\x86\Debug\BEProject3.pdb
+C:\Documents and Settings\Abinand\My Documents\Visual Studio 2008\Projects\BEProject3\BEProject3\bin\x86\Debug\BEProject3.pdb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\Pixel.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\rocket.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\target.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\tile.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\car.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\Font.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\BEProject3.exe
+E:\BEProject3\BEProject3\bin\x86\Debug\BEProject3.pdb
+E:\BEProject3\BEProject3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BEProject3\BEProject3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\BEProject3\BEProject3\obj\x86\Debug\BEProject3.exe
+E:\BEProject3\BEProject3\obj\x86\Debug\BEProject3.pdb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\LucidaConsole.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\Miramonte.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\MiramonteBold.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\MiramonteMedium.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\Content\MiramonteTiny.xnb
+E:\BEProject3\BEProject3\bin\x86\Debug\DGui.dll
+E:\BEProject3\BEProject3\bin\x86\Debug\DGui.pdb

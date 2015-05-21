@@ -1,0 +1,2 @@
+E:\Development\Source\D3DEngine\D3DEngine\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\Source\C#\D3DEngine\D3DEngine\Content\obj\x86\Debug\ResolveAssemblyReference.cache

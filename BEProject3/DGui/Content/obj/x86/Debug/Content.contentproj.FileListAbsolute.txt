@@ -1,0 +1,3 @@
+E:\Development\Source\DGui\DGui\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\Source\D3DEngine\DGui\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\Source\C#\D3DEngine\DGui\Content\obj\x86\Debug\ResolveAssemblyReference.cache

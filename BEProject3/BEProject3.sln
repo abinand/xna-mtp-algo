@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEProject3", "BEProject3\BEProject3.csproj", "{C92EBEA4-CBAF-4BBC-BB65-E8CB57981887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGui", "C:\Documents and Settings\karthik\Desktop\DGui\DGui.csproj", "{6D6CB764-17CE-4CD2-9C61-7591D41FAE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92EBEA4-CBAF-4BBC-BB65-E8CB57981887}.Debug|x86.ActiveCfg = Debug|x86
+		{C92EBEA4-CBAF-4BBC-BB65-E8CB57981887}.Debug|x86.Build.0 = Debug|x86
+		{C92EBEA4-CBAF-4BBC-BB65-E8CB57981887}.Release|x86.ActiveCfg = Release|x86
+		{C92EBEA4-CBAF-4BBC-BB65-E8CB57981887}.Release|x86.Build.0 = Release|x86
+		{DA5C0154-D422-4434-ACB5-6EAEFF915BE3}.Debug|x86.ActiveCfg = Debug|x86
+		{DA5C0154-D422-4434-ACB5-6EAEFF915BE3}.Release|x86.ActiveCfg = Release|x86
+		{6D6CB764-17CE-4CD2-9C61-7591D41FAE52}.Debug|x86.ActiveCfg = Debug|x86
+		{6D6CB764-17CE-4CD2-9C61-7591D41FAE52}.Debug|x86.Build.0 = Debug|x86
+		{6D6CB764-17CE-4CD2-9C61-7591D41FAE52}.Release|x86.ActiveCfg = Release|x86
+		{6D6CB764-17CE-4CD2-9C61-7591D41FAE52}.Release|x86.Build.0 = Release|x86
+		{0149E2BD-DC1C-4A5B-8D7C-D8D693D448B1}.Debug|x86.ActiveCfg = Debug|x86
+		{0149E2BD-DC1C-4A5B-8D7C-D8D693D448B1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
