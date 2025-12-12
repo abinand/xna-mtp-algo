@@ -13,4 +13,4 @@ The enhacement accommodates dynamic objects in the game environment and shows ho
 
 This was originally developed as the final year project to obtain my Bachelors Degree in Computer Science & Engineering.
 
-A simpler javascript implementation can be in [html-games-repo](https://github.com/abinand/html-games) 
+A simpler javascript implementation/demo can be found in [html-games-repo](https://github.com/abinand/html-games) 
