@@ -4,6 +4,8 @@ TAO-MTP stands for Tracking Automatic Optimization - Moving Target Pursuit Algor
 
 This project built on ideas presented in the following publication:
 > M. Xu, Z. Pan, H. Lu, Y. Ye, P. Lv and A. El Rhalibi, "Moving-Target Pursuit Algorithm Using Improved Tracking Strategy," in IEEE Transactions on Computational Intelligence and AI in Games, vol. 2, no. 1, pp. 27-39, March 2010, doi: 10.1109/TCIAIG.2010.2042449.
+>
+> URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5406130&isnumber=5429007
 
 The repository is a Visual Studio Solution containing project files that implements an enchancement to the TAO-MTP path finding algorithm using C# and the XNA game development framework. 
 
